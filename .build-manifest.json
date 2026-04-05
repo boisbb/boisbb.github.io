@@ -1,0 +1,1388 @@
+{
+  "images": {
+    "assets/galleries/belgium/DSA05753.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421498000000000,
+      "source_size": 2006698
+    },
+    "assets/galleries/belgium/DSA05759.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421508000000000,
+      "source_size": 1885547
+    },
+    "assets/galleries/belgium/DSA05767.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421520000000000,
+      "source_size": 3427825
+    },
+    "assets/galleries/belgium/DSA05774.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421520000000000,
+      "source_size": 3139891
+    },
+    "assets/galleries/belgium/DSA05781.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421530000000000,
+      "source_size": 1841728
+    },
+    "assets/galleries/belgium/DSA05796.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421546000000000,
+      "source_size": 2460582
+    },
+    "assets/galleries/belgium/DSA05805.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421554000000000,
+      "source_size": 4361308
+    },
+    "assets/galleries/belgium/DSA05809.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421556000000000,
+      "source_size": 3726294
+    },
+    "assets/galleries/belgium/DSA05837.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421566000000000,
+      "source_size": 2744155
+    },
+    "assets/galleries/belgium/DSA05848.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421570000000000,
+      "source_size": 2353500
+    },
+    "assets/galleries/belgium/DSA05852.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421580000000000,
+      "source_size": 1998435
+    },
+    "assets/galleries/belgium/DSA05860.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421588000000000,
+      "source_size": 2450962
+    },
+    "assets/galleries/belgium/DSA05873.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421596000000000,
+      "source_size": 2388198
+    },
+    "assets/galleries/belgium/DSA05890.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421612000000000,
+      "source_size": 2408137
+    },
+    "assets/galleries/belgium/DSA05894.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421618000000000,
+      "source_size": 2319312
+    },
+    "assets/galleries/belgium/DSA05905.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421622000000000,
+      "source_size": 2413731
+    },
+    "assets/galleries/belgium/DSA05937.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421644000000000,
+      "source_size": 2375108
+    },
+    "assets/galleries/belgium/DSA05948.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421652000000000,
+      "source_size": 2016797
+    },
+    "assets/galleries/belgium/DSA05967.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743421662000000000,
+      "source_size": 1252957
+    },
+    "assets/galleries/belgium/DSA05971.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596136000000000,
+      "source_size": 2172519
+    },
+    "assets/galleries/belgium/DSA05976.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596136000000000,
+      "source_size": 1582840
+    },
+    "assets/galleries/belgium/DSA05983.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596148000000000,
+      "source_size": 2185783
+    },
+    "assets/galleries/belgium/DSA05984.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596148000000000,
+      "source_size": 2061820
+    },
+    "assets/galleries/belgium/DSA06003.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596168000000000,
+      "source_size": 2492477
+    },
+    "assets/galleries/belgium/DSA06020.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596186000000000,
+      "source_size": 2155967
+    },
+    "assets/galleries/belgium/DSA06042.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596196000000000,
+      "source_size": 3002951
+    },
+    "assets/galleries/belgium/DSA06060.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596210000000000,
+      "source_size": 3241761
+    },
+    "assets/galleries/belgium/DSA06088.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596214000000000,
+      "source_size": 2587072
+    },
+    "assets/galleries/belgium/DSA06109.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596222000000000,
+      "source_size": 2449506
+    },
+    "assets/galleries/belgium/DSA06126.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596234000000000,
+      "source_size": 2764472
+    },
+    "assets/galleries/belgium/DSA06143.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596244000000000,
+      "source_size": 4335053
+    },
+    "assets/galleries/belgium/DSA06169.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596264000000000,
+      "source_size": 1454221
+    },
+    "assets/galleries/belgium/DSA06172.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596268000000000,
+      "source_size": 1478116
+    },
+    "assets/galleries/belgium/DSA06182-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596278000000000,
+      "source_size": 1070324
+    },
+    "assets/galleries/belgium/DSA06188.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596290000000000,
+      "source_size": 2256789
+    },
+    "assets/galleries/belgium/DSA06200.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596298000000000,
+      "source_size": 2248848
+    },
+    "assets/galleries/belgium/DSA06212.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596304000000000,
+      "source_size": 2509971
+    },
+    "assets/galleries/belgium/DSA06214.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596306000000000,
+      "source_size": 2328718
+    },
+    "assets/galleries/belgium/cover.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1743596206000000000,
+      "source_size": 2498973
+    },
+    "assets/galleries/denmark/DSA08440.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309226268418763,
+      "source_size": 2789599
+    },
+    "assets/galleries/denmark/DSA08444-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309232317903035,
+      "source_size": 5032026
+    },
+    "assets/galleries/denmark/DSA08453-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309239418699714,
+      "source_size": 3821519
+    },
+    "assets/galleries/denmark/DSA08456.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309242750482472,
+      "source_size": 6744454
+    },
+    "assets/galleries/denmark/DSA08461.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309246848573900,
+      "source_size": 4620006
+    },
+    "assets/galleries/denmark/DSA08462-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309250540619858,
+      "source_size": 2957526
+    },
+    "assets/galleries/denmark/DSA08467-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309255700471979,
+      "source_size": 3964321
+    },
+    "assets/galleries/denmark/DSA08474.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309257244925062,
+      "source_size": 4184273
+    },
+    "assets/galleries/denmark/DSA08485-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309276357672203,
+      "source_size": 6768374
+    },
+    "assets/galleries/denmark/DSA08491.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309278890960057,
+      "source_size": 2950524
+    },
+    "assets/galleries/denmark/DSA08495.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309285925604352,
+      "source_size": 4026215
+    },
+    "assets/galleries/denmark/DSA08498-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309288852473348,
+      "source_size": 4739196
+    },
+    "assets/galleries/denmark/DSA08505.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309294524632053,
+      "source_size": 4078560
+    },
+    "assets/galleries/denmark/DSA08527.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309306694217022,
+      "source_size": 7888993
+    },
+    "assets/galleries/denmark/DSA08529.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309310685483627,
+      "source_size": 4890712
+    },
+    "assets/galleries/denmark/DSA08531-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309314266116430,
+      "source_size": 7181555
+    },
+    "assets/galleries/denmark/DSA08532.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309315343974282,
+      "source_size": 5461796
+    },
+    "assets/galleries/denmark/DSA08533.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309316819757483,
+      "source_size": 4223429
+    },
+    "assets/galleries/denmark/DSA08539.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309321334120584,
+      "source_size": 3999430
+    },
+    "assets/galleries/denmark/DSA08551.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309323330092657,
+      "source_size": 4754201
+    },
+    "assets/galleries/denmark/DSA08556.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309326280341350,
+      "source_size": 4206890
+    },
+    "assets/galleries/denmark/DSA08563-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309328928039065,
+      "source_size": 4566243
+    },
+    "assets/galleries/denmark/DSA08575.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309330714631573,
+      "source_size": 5780556
+    },
+    "assets/galleries/denmark/cover.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1775309324747256510,
+      "source_size": 5937889
+    },
+    "assets/galleries/italy/DSC05549.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740664246000000000,
+      "source_size": 1392894
+    },
+    "assets/galleries/italy/DSC05555.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740664244000000000,
+      "source_size": 1540506
+    },
+    "assets/galleries/italy/DSC05559.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740664252000000000,
+      "source_size": 2080962
+    },
+    "assets/galleries/italy/DSC05566.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740664252000000000,
+      "source_size": 1546237
+    },
+    "assets/galleries/italy/DSC05568.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740664258000000000,
+      "source_size": 1759851
+    },
+    "assets/galleries/italy/DSC05609.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740664262000000000,
+      "source_size": 2073494
+    },
+    "assets/galleries/italy/DSC05621.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740664264000000000,
+      "source_size": 1707786
+    },
+    "assets/galleries/italy/cover.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740664262000000000,
+      "source_size": 2046493
+    },
+    "assets/galleries/malta/DSC03295.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663036000000000,
+      "source_size": 1508310
+    },
+    "assets/galleries/malta/DSC03300.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663038000000000,
+      "source_size": 1302363
+    },
+    "assets/galleries/malta/DSC03303.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663048000000000,
+      "source_size": 1707186
+    },
+    "assets/galleries/malta/DSC03313.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663048000000000,
+      "source_size": 1483650
+    },
+    "assets/galleries/malta/DSC03324.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663054000000000,
+      "source_size": 1747438
+    },
+    "assets/galleries/malta/DSC03441-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663058000000000,
+      "source_size": 2436317
+    },
+    "assets/galleries/malta/DSC03443.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663066000000000,
+      "source_size": 2645272
+    },
+    "assets/galleries/malta/DSC03471-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1749171940000000000,
+      "source_size": 1617078
+    },
+    "assets/galleries/malta/DSC03525.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663092000000000,
+      "source_size": 2282484
+    },
+    "assets/galleries/malta/DSC03551.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663092000000000,
+      "source_size": 1571150
+    },
+    "assets/galleries/malta/DSC03553.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663096000000000,
+      "source_size": 2013040
+    },
+    "assets/galleries/malta/DSC03560.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663102000000000,
+      "source_size": 1558098
+    },
+    "assets/galleries/malta/DSC03598.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663114000000000,
+      "source_size": 1654938
+    },
+    "assets/galleries/malta/DSC03606.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663116000000000,
+      "source_size": 1798720
+    },
+    "assets/galleries/malta/DSC03661-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663144000000000,
+      "source_size": 2544408
+    },
+    "assets/galleries/malta/DSC03671-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663158000000000,
+      "source_size": 1705928
+    },
+    "assets/galleries/malta/DSC03702.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663166000000000,
+      "source_size": 1321912
+    },
+    "assets/galleries/malta/DSC03754.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663190000000000,
+      "source_size": 1390904
+    },
+    "assets/galleries/malta/DSC03760.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663192000000000,
+      "source_size": 1887716
+    },
+    "assets/galleries/malta/cover.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1740663082000000000,
+      "source_size": 2404436
+    },
+    "assets/galleries/paris/DSA08020-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767395908703132383,
+      "source_size": 8046674
+    },
+    "assets/galleries/paris/DSA08022.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767395909844560305,
+      "source_size": 4181041
+    },
+    "assets/galleries/paris/DSA08025-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767395915841245923,
+      "source_size": 4373432
+    },
+    "assets/galleries/paris/DSA08029.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767395920297483611,
+      "source_size": 4516662
+    },
+    "assets/galleries/paris/DSA08032.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767395923529988844,
+      "source_size": 3540577
+    },
+    "assets/galleries/paris/DSA08035.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767395928632397136,
+      "source_size": 4621987
+    },
+    "assets/galleries/paris/DSA08038.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767395934387430378,
+      "source_size": 6473806
+    },
+    "assets/galleries/paris/DSA08048.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767395959114919968,
+      "source_size": 3816162
+    },
+    "assets/galleries/paris/DSA08050.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767395965056450898,
+      "source_size": 4206614
+    },
+    "assets/galleries/paris/DSA08058-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767395981500628602,
+      "source_size": 5329240
+    },
+    "assets/galleries/paris/DSA08061.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767395986264265708,
+      "source_size": 4992621
+    },
+    "assets/galleries/paris/DSA08076.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767396026822221668,
+      "source_size": 3206413
+    },
+    "assets/galleries/paris/DSA08084.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767396056702197604,
+      "source_size": 5251092
+    },
+    "assets/galleries/paris/DSA08100.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767396086133646894,
+      "source_size": 5229798
+    },
+    "assets/galleries/paris/DSA08102.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767396089601977035,
+      "source_size": 2920823
+    },
+    "assets/galleries/paris/DSA08119.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767396103315521836,
+      "source_size": 5650261
+    },
+    "assets/galleries/paris/DSA08129.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767396117346769075,
+      "source_size": 5950925
+    },
+    "assets/galleries/paris/DSA08140.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767396111727860008,
+      "source_size": 915753
+    },
+    "assets/galleries/paris/DSA08144-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767396122896526134,
+      "source_size": 425858
+    },
+    "assets/galleries/paris/DSA08145-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767396127128231436,
+      "source_size": 249351
+    },
+    "assets/galleries/paris/DSA08149-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767396129136887841,
+      "source_size": 551548
+    },
+    "assets/galleries/paris/DSA08172.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767396226531944652,
+      "source_size": 4272694
+    },
+    "assets/galleries/paris/cover.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1767396092916496550,
+      "source_size": 2819359
+    },
+    "assets/galleries/roadtrip/DSA07487.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1759695128930069344,
+      "source_size": 774695
+    },
+    "assets/galleries/roadtrip/DSA07506.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1759695129660254284,
+      "source_size": 1329672
+    },
+    "assets/galleries/roadtrip/DSA07522.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1759695129766145159,
+      "source_size": 1186278
+    },
+    "assets/galleries/roadtrip/DSA07523.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1759695129928701483,
+      "source_size": 1434397
+    },
+    "assets/galleries/roadtrip/DSA07539.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1759695130291899415,
+      "source_size": 1129329
+    },
+    "assets/galleries/roadtrip/DSA07546-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1759695130697007499,
+      "source_size": 1015835
+    },
+    "assets/galleries/roadtrip/DSA07555-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1759695131356515398,
+      "source_size": 1565445
+    },
+    "assets/galleries/roadtrip/DSA07560.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1759864946081174388,
+      "source_size": 2324501
+    },
+    "assets/galleries/roadtrip/DSA07564.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1759864947221821995,
+      "source_size": 1878274
+    },
+    "assets/galleries/roadtrip/DSA07575.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1759864948582117311,
+      "source_size": 2990363
+    },
+    "assets/galleries/roadtrip/DSA07581.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1759864948800372564,
+      "source_size": 865271
+    },
+    "assets/galleries/roadtrip/DSA07590.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1759864949490334228,
+      "source_size": 1637147
+    },
+    "assets/galleries/roadtrip/DSA07596.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1759864950933825252,
+      "source_size": 2793678
+    },
+    "assets/galleries/roadtrip/DSA07604.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1759864951554095980,
+      "source_size": 2001232
+    },
+    "assets/galleries/roadtrip/DSA07614.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1759864955193425764,
+      "source_size": 2908510
+    },
+    "assets/galleries/roadtrip/DSA07631.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1759864957958085080,
+      "source_size": 1314455
+    },
+    "assets/galleries/roadtrip/DSA07632-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1759864958719346761,
+      "source_size": 1890369
+    },
+    "assets/galleries/roadtrip/DSA07663.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1766951951233247367,
+      "source_size": 2851028
+    },
+    "assets/galleries/roadtrip/DSA07671.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1766951951564559407,
+      "source_size": 2343416
+    },
+    "assets/galleries/roadtrip/DSA07704.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1766951952759247631,
+      "source_size": 2292077
+    },
+    "assets/galleries/roadtrip/DSA07735.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1766951954151147939,
+      "source_size": 1440630
+    },
+    "assets/galleries/roadtrip/DSA07749.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1766951955056015173,
+      "source_size": 1851264
+    },
+    "assets/galleries/roadtrip/DSA07762.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1766951955827354365,
+      "source_size": 1938401
+    },
+    "assets/galleries/roadtrip/cover.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1766951953906909053,
+      "source_size": 2239856
+    },
+    "assets/galleries/tuscany/DSC01495.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636020068949580,
+      "source_size": 15587799
+    },
+    "assets/galleries/tuscany/DSC01510.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636040615318418,
+      "source_size": 18125329
+    },
+    "assets/galleries/tuscany/DSC01530.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636042830091000,
+      "source_size": 15246016
+    },
+    "assets/galleries/tuscany/DSC01553.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636063335078359,
+      "source_size": 13993846
+    },
+    "assets/galleries/tuscany/DSC01562.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636076894601822,
+      "source_size": 21208820
+    },
+    "assets/galleries/tuscany/DSC01583.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636077734927773,
+      "source_size": 10079961
+    },
+    "assets/galleries/tuscany/DSC01603.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636087913790464,
+      "source_size": 15207136
+    },
+    "assets/galleries/tuscany/DSC01622.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636116499923944,
+      "source_size": 15404368
+    },
+    "assets/galleries/tuscany/DSC01666.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636127664967775,
+      "source_size": 13064923
+    },
+    "assets/galleries/tuscany/DSC01682.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636141547290444,
+      "source_size": 14396522
+    },
+    "assets/galleries/tuscany/DSC01695.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636149825175524,
+      "source_size": 14967458
+    },
+    "assets/galleries/tuscany/DSC01710.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636161187447667,
+      "source_size": 12011943
+    },
+    "assets/galleries/tuscany/DSC01714.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636157857781410,
+      "source_size": 16103570
+    },
+    "assets/galleries/tuscany/DSC01738-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636175473047256,
+      "source_size": 11037712
+    },
+    "assets/galleries/tuscany/DSC01748.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636185626034975,
+      "source_size": 15530793
+    },
+    "assets/galleries/tuscany/DSC01753-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636198995579123,
+      "source_size": 16333171
+    },
+    "assets/galleries/tuscany/DSC01799.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636214337301612,
+      "source_size": 14114871
+    },
+    "assets/galleries/tuscany/DSC01828.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636237089554667,
+      "source_size": 14614876
+    },
+    "assets/galleries/tuscany/DSC01834.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636240356730461,
+      "source_size": 15763866
+    },
+    "assets/galleries/tuscany/DSC01838.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636246098391056,
+      "source_size": 13588812
+    },
+    "assets/galleries/tuscany/DSC01875.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636253702593446,
+      "source_size": 16248267
+    },
+    "assets/galleries/tuscany/DSC01912.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636289672249079,
+      "source_size": 13609850
+    },
+    "assets/galleries/tuscany/DSC01971.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636300517881155,
+      "source_size": 14203662
+    },
+    "assets/galleries/tuscany/DSC01999-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636335556524754,
+      "source_size": 17282302
+    },
+    "assets/galleries/tuscany/DSC02008.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636337064078927,
+      "source_size": 17537479
+    },
+    "assets/galleries/tuscany/DSC02020.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636347369096756,
+      "source_size": 13277981
+    },
+    "assets/galleries/tuscany/DSC02044.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636365982804656,
+      "source_size": 17677226
+    },
+    "assets/galleries/tuscany/DSC02061.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636365946635962,
+      "source_size": 9259696
+    },
+    "assets/galleries/tuscany/DSC02110.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636389258391500,
+      "source_size": 18280700
+    },
+    "assets/galleries/tuscany/DSC02113.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636390685534954,
+      "source_size": 19194848
+    },
+    "assets/galleries/tuscany/DSC02125.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636402361425042,
+      "source_size": 15427551
+    },
+    "assets/galleries/tuscany/DSC02129-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636413068391681,
+      "source_size": 8482822
+    },
+    "assets/galleries/tuscany/DSC02246-2.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692638138978003383,
+      "source_size": 10517297
+    },
+    "assets/galleries/tuscany/DSC02274.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636461758730888,
+      "source_size": 12405879
+    },
+    "assets/galleries/tuscany/cover.jpg": {
+      "settings": {
+        "jpeg_quality": "60",
+        "max_image_width": 1600
+      },
+      "source_mtime_ns": 1692636180785058260,
+      "source_size": 10098823
+    }
+  }
+}
